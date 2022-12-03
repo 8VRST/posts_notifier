@@ -1,0 +1,7 @@
+__pycache__
+.idea/
+.vscode
+database/creds.json
+tests.py
+telegram/creds.json
+venv

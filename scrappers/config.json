@@ -1,0 +1,22 @@
+{
+  "urls": {
+    "kufar": "https://re.kufar.by/l/grodno/snyat/kvartiru-dolgosrochno?cur=USD&gbx=b%3A21.829833984375004%2C52.03897658307622%2C25.361938476562504%2C54.61025498157912&gtsy=country-belarus~province-grodnenskaja_oblast~locality-grodno&sort=lst.d",
+    "realtby": "https://realt.by/grodno-region/rent/flat-for-long/grodnenskij-rajon/?search=eJwrLkksSY1PySwuKcpMLonPTFE1dUpVNXWxNTJXq4hPSawsjs%2FPgQuaq8UXp5aUFgD5RanJ8QWpRfEFielgKUMDAN%2FcGSE%3D",
+    "gohome": "https://gohome.by/rent/search?search%5Btype%5D=3&search%5Blink_edit%5D=full&search%5Bmap_latitude%5D=&search%5Bmap_longitude%5D=&search%5Bmap_zoom%5D=0&search%5Bglobal_region%5D=4&search%5Bstate%5D=27&search%5Bregion%5D=5&search%5Bcity_name%5D=&search%5Bstreet%5D=&search%5Broom_from%5D=0&search%5Broom_to%5D=0&search%5Bcost_from%5D=&search%5Bcost_to%5D=&search%5Bsq_all_from%5D=&search%5Bsq_all_to%5D=&search%5Bsq_zhil_from%5D=&search%5Bsq_zhil_to%5D=&search%5Bsq_kuh_from%5D=&search%5Bsq_kuh_to%5D=&search%5Bfloor_from%5D=&search%5Bfloor_to%5D=&search%5Bfloor_all_from%5D=&search%5Bfloor_all_to%5D=&search%5Byear_from%5D=&search%5Byear_to%5D=&search%5Bis_sanuzel%5D=-1&search%5Bis_phone%5D=-1&search%5Bdate_create%5D=1669669200&search%5Bsort_field%5D=date_last_up_desc",
+    "hataby": "https://www.hata.by/search/~s_do=rent~s_what=flat~currency=840~ctype=ckod~ckod=4401000000/page/1/sort/added=desc/",
+    "irrby": "http://grodno.irr.by/realestate/longtime/grodnenskiy-r_n/grodno-gorod/search/currency=BYN/list=gallery/",
+    "forumgrodno": "https://forum.grodno.net/index.php?board=346.0;sort=first_post;desc",
+    "vkcom": [
+      "https://vk.com/grodno_kvartiry",
+      "https://vk.com/grodnoflats"
+    ]
+  },
+  "spam_words": [
+    "сниму", "сними", "продам", "снимет", "снимем", "снимут", "велком", "россии", "продаст", "помогу", "нужен", "окна",
+    "срочно!сниму", "базары", "помощи!", "помощи", "«базам", "мошенники!", "неясного", "нестандарта", "рольшторы",
+    "плечами", "акции", "зуб", "зубы", "зубами", "часы", "сутки"
+  ],
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+  }
+}

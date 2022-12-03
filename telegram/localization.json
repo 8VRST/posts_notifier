@@ -1,0 +1,33 @@
+{
+  "EN":
+  {
+    "language": "English language chosen",
+    "send_posts": "If a new post(s) will be appeared on the sites, we will send them to you. You can stop receiving a posts by sending /stop command to me",
+    "stop_posts": "You will not receive posts anymore. To start receiving posts again send /send_posts command",
+    "today_posts": "Found {} posts in database for today",
+    "yesterday_posts": "Found {} posts in database for {}",
+    "fatal_error": "This shall not pass. Send me  command I will understand",
+    "help": "Available commands list:\n\n/send_posts - send new posts\n/stop - остановить отправку новых постов\n/yesterday_posts - all yesterday posts from the database\n/today_posts - all today posts from the database\n/lang - change language"
+  },
+  "BY":
+  {
+    "language": "Абрана беларуская мова",
+    "send_posts": "Калі новыя пасты будуць з'яўляцца на сайтах, я адпраўлю іх вам. Спыніць атрыманне пастоў можна камандай /stop",
+    "stop_posts": "Вы не будзеце атрымліваць новыя пасты. Каб зноўку іх атрымліваць, адпраўце каманду /send_posts",
+    "today_posts": "Знойдзена {} пастоў у базе за сёння",
+    "yesterday_posts": "Знойдзена {} пастоў у базе за {}",
+    "fatal_error": "Гавары нармальна. Адашлі каманду, якую я зразумею",
+    "help": "Спіс даступных камандаў:\n\n/send_posts - адпраўляць новыя пасты\n/stop - спыніць адпраўку новых пастоў\n/yesterday_posts - усе пасты з базы за ўчора\n/today_posts - усе пасты з базы за сёння\n/lang - змяніць мову"
+  },
+  "RU":
+  {
+    "language": "Выбран русский язык",
+    "send_posts": "Когда новые посты буду появлятся на сайтах, я отправлю их вам. Остановить получение постов можно командой /stop",
+    "stop_posts": "Вы не будете плучать новые посты. Чтобы снова получать посты, отправьте команду /send_posts",
+    "today_posts": "Нашёл {} постов в базе за сегодня",
+    "yesterday_posts": "Нашёл {} постов в базе за {}",
+    "fatal_error": "Из-за леса из-за гор к нам пришёл Fatal Error. Отправь мне команду, которую я понимаю",
+    "help": "Список доступных комманд:\n\n/send_posts - отправлять новые посты\n/stop - остановить отправку новых постов\n/yesterday_posts - все посты из базы за вчера\n/today_posts - все посты из базы за сегодня\n/lang - изменить язык"
+  },
+  "language": "Choose the language | Абярыце мову | Выберите язык"
+}
