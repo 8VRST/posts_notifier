@@ -3,7 +3,7 @@ Firstly it was meant to scrap a posts about housing but you can try to use the s
 
 
 **Deployment:**<br />
-Everything is worked and tested on Windows 10 machine with Python 3.8.0 and PostgreSQL 13.2
+Everything is worked and tested on Windows 10 machine with Python 3.8 and PostgreSQL 13.2 and Ubuntu 18.04 with Python 3.7 and PostgreSQL 10.22
 1. Create virtual environment
 2. Install in virtual environment requirements.txt
 3. Rename creds_example.json in database directory to creds.json and change the values according to your database
